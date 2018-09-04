@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<all_member>
+ <member>
+  <id>15</id>
+  <name>Khadija</name>
+  <email>md.abdullah.all.muktadir@gmail.com</email>
+  <position>Senior Back-end Developer</position>
+  <salary>150000</salary>
+  <education>B.Sc CSE</education>
+  <skills>PHP, jscript, AJAx, SQL</skills>
+  <location>221b, Baker Street</location>
+ </member>
+ <member>
+  <id>3</id>
+  <name>refat</name>
+  <email>md.abdullah.all.muktadir@gmail.com</email>
+  <position>Senior Back-end Developer</position>
+  <salary>150000</salary>
+  <education>B.Sc CSE</education>
+  <skills>PHP, jscript, AJAx, SQL</skills>
+  <location>221b, Baker Street</location>
+ </member>
+ <member>
+  <id>2</id>
+  <name>himu</name>
+  <email>himel00528@gmail.com</email>
+  <position>Project M..</position>
+  <salary>100000</salary>
+  <education>AIUB </education>
+  <skills>js,java,</skills>
+  <location>Dhaka,Bangladesh</location>
+ </member>
+ <member>
+  <id>1</id>
+  <name>reema</name>
+  <email>reema@gmail.com</email>
+  <position>Software Eng.</position>
+  <salary>1000</salary>
+  <education> AIUB</education>
+  <skills> font end,js</skills>
+  <location> dhaka,Bangladesh,murder</location>
+ </member>
+</all_member>
